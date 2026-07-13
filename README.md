@@ -12,15 +12,15 @@ Aplikasi mobile sederhana berbasis *React Native* dan *Expo* yang menampilkan ka
 
 ## Hasil
 
-![1](assets/hasil.png)
+![](assets/hasil.png)
 
 ## Scrcpy
 
-![2](assets/scrcpy.png)
+![](assets/scrcpy.png)
 
 ## usb
 
-![3](assets/usb.png)
+![](assets/usb.png)
 
 ---
 
